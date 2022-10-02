@@ -5,7 +5,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 
 - Solution URL: https://github.com/JuanRodriguezz/FM_QRChallenge
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://juanrodriguezz.github.io/FM_QRChallenge/
 
 ## My process
 
