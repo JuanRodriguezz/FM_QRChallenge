@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+body, .col, .row{
+    height: 100vh;
+}
+
+
+.card{
+    width: 25rem;
+    padding: 1.2rem;
+    border-radius: 1rem;
+    box-shadow: .5rem 1rem 2.2rem 1px rgba(184, 187, 207, 0.75);
+    margin: auto;
+}
+
+.card-img-top{
+    border-radius: 1rem;
+}
+
+.card-body{
+    margin: 0;
+    text-align: center;
+    
+}
+
+.card-title{
+    font-weight: 700;
+    color:  hsl(218, 44%, 22%);
+    margin-bottom: 1rem;
+}
+
+.card-text{
+    color:  hsl(218, 20%, 63%);
+    font-weight: lighter;
+}
